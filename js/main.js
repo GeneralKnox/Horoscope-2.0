@@ -318,7 +318,7 @@ function horoscopeResults() {
 
 
 
-  
+
 
 
 
